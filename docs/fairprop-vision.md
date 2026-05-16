@@ -1,0 +1,1 @@
+# FairProp – Vision (Draft)
