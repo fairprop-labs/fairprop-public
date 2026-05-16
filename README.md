@@ -25,3 +25,9 @@ Wir entwickeln KI, die Vertrauen schafft, statt Entscheidungen zu verschleiern.
 ---
 
 © 2026 FairProp Labs – Regensburg, Germany
+---
+**Verbindung zum FairCoreAI‑Framework:**  
+FairProp nutzt FairCoreAI als ethische und technologische Grundlage für erklärbare KI‑Modelle.  
+🔗 [FairCoreAI‑Framework Repository](https://github.com/fairprop-labs/faircoreai-framework)
+
+
