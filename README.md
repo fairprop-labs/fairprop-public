@@ -1,3 +1,10 @@
+<p align="center">
+  <b>FairProp Labs | Ethical AI for Real Estate</b><br>
+  <i>Powered by FairCoreAI – Transparency, Fairness & Humanity in PropTech</i>
+</p>
+
+---
+
 # FairProp
 
 **Explainable AI Decision Layer for Real Estate – Fairness. Transparency. Humanity.**
